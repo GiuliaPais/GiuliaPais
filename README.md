@@ -6,12 +6,16 @@
 I'm Giulia, I'm from Italy and I'm mainly interested in data science, artificial intelligence and machine learning, but I also love to learn new stuff and just play around with code
 
 - 🔭 I’m currently working on ISAnalytics, an R package for the statistical analysis of viral insertion sites for gene therapy https://github.com/calabrialab/ISAnalytics/ 
-- 🌱 I’m currently learning Python in depth 
+- 🌱 I’m studying for my master degree in computer science
+
+## My blog
+[<img src='https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white' alt='github'>](https://structuralblue.hashnode.dev/)
 
 ## Get in contact
 [<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github'>](https://github.com/GiuliaPais)
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/giuliapais/)
 [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='ig'>](https://www.instagram.com/fromvirtuetovice/)
+[<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='ig'>](https://twitter.com/blue_structural)
 
 
 ## Skills
