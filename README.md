@@ -1,33 +1,48 @@
-## Hi there 👋, my name is Giulia
-![](https://visitor-badge.laobi.icu/badge?page_id=GiuliaPais.GiuliaPais)
-[![Github](https://img.shields.io/github/followers/GiuliaPais?label=Follow&style=social)](https://github.com/GiuliaPais)
+### Hi, I'm Giulia 👋
 
-### Data science, bioinformatics and all the fun stuff
-I'm Giulia, I'm from Italy and I'm mainly interested in data science, artificial intelligence and machine learning, but I also love to learn new stuff and just play around with code
+Software developer based in Italy. I build **production R packages and Shiny apps** for big-pharma clients at [Appsilon](https://www.appsilon.com) — focused on **CDISC** standards, clinical-trial reporting, and regulatory-submission workflows. Background in bioinformatics.
 
-- 🔭 I’m currently working on ISAnalytics, an R package for the statistical analysis of viral insertion sites for gene therapy https://github.com/calabrialab/ISAnalytics/ 
-- 🌱 I’m studying for my master degree in computer science
+- 🧪  **At Appsilon** — production R packages + Shiny apps for clinical trials (CDISC, regulatory submissions)
+- 🔧  **On the side** — full-stack Python/FastAPI + React, with LangChain/LangGraph for AI integrations
+- 📦  **Author of** [ISAnalytics](https://bioconductor.org/packages/ISAnalytics/) (R / Bioconductor)
+- 🌿  **Recent OSS** — contributing to open-source pharma R packages
+- 🎓  MSc Computer Science (Data Science & AI) · Professional Scrum Master I (PSM I)
 
-## My blog
-[<img src='https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white' alt='github'>](https://structuralblue.hashnode.dev/)
+### Tech stack
 
-## Get in contact
-[<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github'>](https://github.com/GiuliaPais)
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/giuliapais/)
-[<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='ig'>](https://www.instagram.com/fromvirtuetovice/)
-[<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='ig'>](https://twitter.com/blue_structural)
+**Day job — R / pharma**
 
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+![Shiny](https://img.shields.io/badge/-Shiny-447099?style=flat&logo=rstudio&logoColor=white)
+![CDISC](https://img.shields.io/badge/-CDISC-00558C?style=flat)
+![Bioconductor](https://img.shields.io/badge/-Bioconductor-1A85B7?style=flat&logo=r&logoColor=white)
 
-## Skills
+**Side projects — full-stack + AI**
 
-<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png' alt='R' height='50px'>&nbsp;&nbsp;
-<img src='https://upload.wikimedia.org/wikipedia/it/thumb/2/2e/Java_Logo.svg/643px-Java_Logo.svg.png' alt='Java' height='50px'>&nbsp;&nbsp;
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png' alt='Python' height='50px'>&nbsp;&nbsp;
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png' alt='HTML' height='50px'>&nbsp;&nbsp;
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt='CSS' height='50px'>&nbsp;&nbsp;
- 
-## Stats
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat)
+![Chroma](https://img.shields.io/badge/-Chroma-FF6B6B?style=flat&logo=chromadb&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiuliaPais&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+**Also in the toolbelt** *— in the kit, just not my current focus*
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GiuliaPais&show_icons=true&theme=tokyonight)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+### Featured work
+
+**[ISAnalytics](https://bioconductor.org/packages/ISAnalytics/)** &nbsp;·&nbsp; [source](https://github.com/calabrialab/ISAnalytics) &nbsp;·&nbsp; [docs](https://calabrialab.github.io/ISAnalytics/)
+R / Bioconductor package I authored for analyzing viral integration sites in gene-therapy clonal-tracking studies. Built during my time at **SR-TIGET** (San Raffaele Telethon Institute for Gene Therapy), 2020–2023.
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giuliapais/)
+[![Credly](https://img.shields.io/badge/-Credly-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/giulia-pais)
